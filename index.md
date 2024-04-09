@@ -8,7 +8,7 @@ I have many hobbies, but if I had to name my top three, they would be: <br>
 2. Lifting weights
 3. Listening to music (mainly hip hop/r & b, but I dabble in a bit of everything)
 ## Programming Background:
-I feel like I have at least a basic knowledge of (Hopefully can add to this later):
+I feel like I have at least a basic knowledge of (***Hopefully can add to this later***):
 + C++
 + Python
 + Java <br>
