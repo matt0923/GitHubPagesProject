@@ -19,5 +19,5 @@ I feel like I have at least a basic knowledge of (***Hopefully can add to this l
  - [ ] Get all A's all year
 ## Links:
 [README for this project](README.md) <br>
-[Link to my about me section](https://github.com/matt0923/GitHubPagesProject/blob/main/index.md#about-me) <br>
+[Link to my about me section](https://matt0923.github.io/GitHubPagesProject/index.html#about-me) <br>
 [Spotify for my favorite artist of all time](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL)
